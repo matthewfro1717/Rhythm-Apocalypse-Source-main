@@ -1,0 +1,68 @@
+{
+	"storyName": "the cornophobia duo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"cornophobia",
+			"i",
+			[
+				0,
+				173,
+				40
+			]
+		],
+		[
+			"kys",
+			"bambi-insane",
+			[
+				0,
+				113,
+				0
+			]
+		],
+		[
+			"xbox",
+			"xbox",
+			[
+				0,
+				253,
+				0
+			]
+		],
+		[
+			"Chipmunk Beatathon",
+			"beats",
+			[
+				255,
+				253,
+				255
+			]
+		],
+		[
+			"Spongebob",
+			"spongebob",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "GayPenisPorn"
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "cheaternew right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "cheaternew down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-40
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "cheaternew idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				50
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cheaternew up"
+		},
+		{
+			"offsets": [
+				19,
+				-90
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cheaternew left"
+		},
+		{
+			"offsets": [
+				-30,
+				-60
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "cheaternew talk1"
+		},
+		{
+			"offsets": [
+				-26,
+				-71
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "cheaternew talk2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 15,
+			"name": "cheaternew talk3",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-90
+			],
+			"loop": false,
+			"fps": 11,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "cheaternew talk4"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Expunged/cheaternew",
+	"position": [
+		0,
+		-20
+	],
+	"healthicon": "cheating",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		38,
+		64
+	],
+	"camera_position": [
+		-190,
+		100
+	],
+	"sing_duration": 7.49999999999999,
+	"scale": 1.1
+}

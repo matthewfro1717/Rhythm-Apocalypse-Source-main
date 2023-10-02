@@ -1,0 +1,140 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Vanilla",
+			"nebia",
+			[
+				10,
+				255,
+				137
+			]
+		],
+		[
+			"Three Sixty",
+			"bamn",
+			[
+				255,
+				0,
+				221
+			]
+		],
+		[
+			"Roleplay",
+			"bernard",
+			[
+				255,
+				204,
+				0
+			]
+		],
+		[
+			"Untitled-Dave-Song",
+			"gop",
+			[
+				255,
+				190,
+				105
+			]
+		],
+		[
+			"Rhythm-024",
+			"nikku",
+			[
+				179,
+				12,
+				79
+			]
+		],
+		[
+			"Tim",
+			"timoconsreal",
+			[
+				255,
+				196,
+				133
+			]
+		],
+		[
+			"Marshmallow",
+			"mellow",
+			[
+				255,
+				0,
+				208
+			]
+		],
+		[
+			"Unidentified-Breakout",
+			"opposition",
+			[
+				255,
+				224,
+				246
+			]
+		],
+		[
+			"Bambi-Rap",
+			"bambi",
+			[
+				0,
+				175,
+				55
+			]
+		],
+		[
+			"Phobos",
+			"Phobos",
+			[
+				255,
+				153,
+				0
+			]
+		],
+		[
+			"Attraction",
+			"entit",
+			[
+				91,
+				60,
+				156
+			]
+		],
+		[
+			"Elevator",
+			"bansu",
+			[
+				16,
+				9,
+				99
+			]
+		],
+		[
+			"MemezTheMeme",
+			"membi",
+			[
+				174,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

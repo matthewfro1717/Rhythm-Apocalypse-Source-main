@@ -1,0 +1,256 @@
+{
+	"song": {
+		"events": [
+			[
+				28444.4444444444,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				49777.7777777778,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				56888.8888888889,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				63111.1111111112,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				64000.0000000001,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				85333.3333333334,
+				[
+					[
+						"Soft Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92444.4444444445,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				106666.666666667,
+				[
+					[
+						"Soft Flash",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				113777.777777778,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				114555.555555556,
+				[
+					[
+						"SC Lyric Event",
+						"You fucking liar, Hmph.",
+						"1.2"
+					]
+				]
+			],
+			[
+				116777.777777778,
+				[
+					[
+						"SC Lyric Event",
+						"Moldy, you trolled! I knew it.",
+						"2"
+					]
+				]
+			],
+			[
+				119666.666666667,
+				[
+					[
+						"SC Lyric Event",
+						"Stop!",
+						"0.89"
+					]
+				]
+			],
+			[
+				120333.333333333,
+				[
+					[
+						"SC Lyric Event",
+						"Trying to help you-",
+						"1"
+					]
+				]
+			],
+			[
+				121777.777777778,
+				[
+					[
+						"SC Lyric Event",
+						"Dumbass friends, what's wrong with you moldy?",
+						"3"
+					]
+				]
+			],
+			[
+				125666.666666667,
+				[
+					[
+						"SC Lyric Event",
+						"I'm not trolling you.",
+						"1"
+					]
+				]
+			],
+			[
+				128666.666666667,
+				[
+					[
+						"SC Lyric Event",
+						"Just stop calling me, jeez.",
+						"2"
+					]
+				]
+			],
+			[
+				131555.555555556,
+				[
+					[
+						"SC Lyric Event",
+						"MOLDY!",
+						"0.5"
+					]
+				]
+			],
+			[
+				132555.555555556,
+				[
+					[
+						"SC Lyric Event",
+						"STOP!",
+						"0.5"
+					]
+				]
+			],
+			[
+				133000,
+				[
+					[
+						"SC Lyric Event",
+						"CALLING ME!",
+						"0.8"
+					]
+				]
+			],
+			[
+				136111.111111111,
+				[
+					[
+						"SC Lyric Event",
+						"Moldy.",
+						"0.8"
+					]
+				]
+			],
+			[
+				137666.666666667,
+				[
+					[
+						"SC Lyric Event",
+						"Stop.",
+						"0.8"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"SC Lyric Event",
+						"Calling me moldy!",
+						"1"
+					]
+				]
+			],
+			[
+				140555.555555556,
+				[
+					[
+						"SC Lyric Event",
+						"Stop calling me, moldy.",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,131 @@
+{
+	"song": {
+		"events": [
+			[
+				40864.8648648649,
+				[
+					[
+						"Change Character",
+						"dad",
+						"BambiGuitar"
+					],
+					[
+						"Play Animation",
+						"Wop",
+						"dad"
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				51891.8918918919,
+				[
+					[
+						"Change Character",
+						"dad",
+						"Bambi"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				92756.7567567567,
+				[
+					[
+						"Change Character",
+						"dad",
+						"BambiGuitar"
+					],
+					[
+						"Play Animation",
+						"Wop",
+						"dad"
+					]
+				]
+			],
+			[
+				93405.4054054054,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"0.6"
+					]
+				]
+			],
+			[
+				134918.918918919,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"Bambi"
+					],
+					[
+						"Cinematics",
+						"",
+						"2"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"0.6"
+					]
+				]
+			]
+		]
+	}
+}

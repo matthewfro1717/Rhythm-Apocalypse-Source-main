@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "dialogue/gfDialogue",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are we back here again?"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "Girlfriend, this is essentially a rematch to the VS. Dave and Bambi Friday Night Funkin’ mod, owned by MoldyGH. The mod would be incomplete if we didn’t add Bambi’s week into the mod, and it would most likely be forgotten and people would lose interest in it, considering Bambi is a more popular character in this mod over Dave, which is unfortunate because he is considered to have the bad songs in the VS. Dave and Bambi Friday Night Funkin’ Mod, owned by MoldyGH.\r\n"
+		},
+		{
+			"sound": "dialogue/bambDialogue1",
+			"speed": 0.05,
+			"portrait": "Bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who goes there?"
+		},
+		{
+			"sound": "dialogue/bfDialogue",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let the games begin."
+		},
+		{
+			"sound": "dialogue/bambDialogue2",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the fuck I just walked into?"
+		}
+	]
+}

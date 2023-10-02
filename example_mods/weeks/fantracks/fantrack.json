@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Heart-Of-Gold",
+			"golden",
+			[
+				255,
+				175,
+				0
+			]
+		],
+		[
+			"No-Corn",
+			"bambi",
+			[
+				26,
+				213,
+				0
+			]
+		],
+		[
+			"Dethroned",
+			"icon-expungedreal",
+			[
+				20,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
